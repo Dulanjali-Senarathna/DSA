@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.exe
+C:\Users\Dulanjali\Desktop\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.deps.json
+C:\Users\Dulanjali\Desktop\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.dll
+C:\Users\Dulanjali\Desktop\DSA\DSA\bin\Debug\netcoreapp3.1\DSA.pdb
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.dll
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.pdb
+C:\Users\Dulanjali\Desktop\DSA\DSA\obj\Debug\netcoreapp3.1\DSA.genruntimeconfig.cache
